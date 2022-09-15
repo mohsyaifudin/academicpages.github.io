@@ -85,9 +85,9 @@ author:
   bio              : "Data analytics & data science enthusiast"
   location         : "Indonesia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.id/citations?user=RHk4O9QAAAAJ&hl=en"
-  email            :
+  email            : "mohsyaifudin93@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "mohsyaifudin"
+  youtube          : # "mohsyaifudin"
   wikipedia        :
 
 
