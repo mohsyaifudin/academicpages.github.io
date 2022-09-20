@@ -13,12 +13,14 @@ redirect_from:
 
 Education
 ======
-* MSc in Chemistry, Universitas Gadjah Mada, 2019
-* BSc in Chemistry, Universitas Negeri Semarang, 2015
+* MSc in Chemistry (Computational Chemistry), Universitas Gadjah Mada, 2016-2019
+* BSc in Chemistry (Computational Chemistry), Universitas Negeri Semarang, 2011-2015
 
 Work experience
 ======
-* Sep 2020 - Present: Data Scientist at **Revolut**
+* Mar - Aug 2022: Chemistry Teacher at **Semesta Bilingual Boarding School (Campus 1)**
+* Aug 2017 - Mar 2021: Researcher at **AIC Research Center - UGM** 
+* Jul - Aug 2018: Research Fellow at **WPI-IIIS** (https://wpi-iiis.tsukuba.ac.jp/)
   
 Skills
 ======
